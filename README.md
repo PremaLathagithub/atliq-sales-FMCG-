@@ -1,7 +1,7 @@
 ## AtliQ sales Promotion analysis
 
 ## company details
-Welcome to the Promotional Analysis project at AtliQ Mart! This project evaluates promotional campaigns during Diwali and Sankranti to optimize future marketing strategies. Through data analysis, we aim to uncover insights that drive sales and enhance customer engagement.
+This project evaluates promotional campaigns during Diwali and Sankranti to optimize future marketing strategies. Through data analysis, we aim to uncover insights that drive sales and enhance customer engagement.
 
 ## Problem statement
 Atliq Mart, promotional offers were run during Diwali in November 2023 and Sankranti in January 2024. Now the sales director wants to understand which promotions did well and which did not so they can make informed decisions for their next promotional period.
